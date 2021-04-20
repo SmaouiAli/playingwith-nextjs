@@ -80,9 +80,9 @@ body{
   padding: 25px;
 }
 .card{
-  margin-left: 30px;
+  margin-left:30px;
   width: 327px;
-  border-radius: 9px;
+  border-radius:9px;
   margin-top: 16px;
   padding: 10px;
   box-shadow: 3px 4px 20px 0 rgb(182 16 168 / 40%);
@@ -109,11 +109,10 @@ body{
   left: 50%;
   width: 80%;
   transform: translate(-50%);
-
 }
 
 .description{
-  color: white;
+    color: white;
     font-size: 15px;
     padding-top: 10px;
     padding: 15px;
@@ -129,8 +128,6 @@ body{
 
 .myimage:hover{
   transform: translate3d(0px, -30px, 0px);
-  
-
 }
 
 .btn{
@@ -156,5 +153,4 @@ body{
   left: 82%;
   transform: translate(-50%);
   z-index: 1;
-  
 }
