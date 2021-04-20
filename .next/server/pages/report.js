@@ -147,7 +147,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var mdb_ui_kit__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(mdb_ui_kit__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _fakeData_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../fakeData.js */ "./fakeData.js");
 
-var _jsxFileName = "C:\\Users\\RBK\\Desktop\\rbk\\pages\\report.js";
+var _jsxFileName = "C:\\Users\\RBK\\Desktop\\playingwith-nextjs\\pages\\report.js";
 
 
 console.log(_fakeData_js__WEBPACK_IMPORTED_MODULE_2__["default"]);

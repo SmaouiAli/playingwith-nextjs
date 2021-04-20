@@ -24,10 +24,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/eom": [
+    "/projects": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/eom.js"
+      "static/chunks/pages/projects.js"
     ],
     "/report": [
       "static/chunks/webpack.js",
