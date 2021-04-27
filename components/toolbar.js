@@ -24,7 +24,7 @@ export const Toolbar = ()=>{
                 <h3 id={styles.opt}onClick={()=> {
                     router.push('/projects')
                     setView(!view)
-            }}>Students projects</h3>
+            }}>Students projects hi</h3>
                 <h3 id={styles.opt}onClick={()=> {
                     router.push('/report')
                     setView(!view)
